@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Francis%20Gorreon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3A6Aeauto&height=300&section=header&text=Francis%20Gorreon&fontSize=90)
 
 <!--
 **gorreonfrancis/gorreonfrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
