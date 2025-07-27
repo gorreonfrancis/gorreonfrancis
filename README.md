@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Hello%20Everyone!&fontSize=90&animation=twinkling)
 
-##About Me
+## About Me
 ***
+```yaml
 name: Francis Gorreon
 located_in: Santa Rosa, Laguna, Philippines
 education:
@@ -27,3 +28,5 @@ technical_background:
 currently_learning: ["Software Quality Assurance", "Web Development"]
 2025 Goals: ["Land an Internship", "Learn JavaScript", "Deep Dive into Software Testing"]
 hobbies: ["Gaming", "Running", "Reading"]
+
+```
