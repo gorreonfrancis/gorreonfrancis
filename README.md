@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Hello%20Everyone!&fontSize=90&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello Everyone!&animation=twinkling&type=waving&color=gradient&height=100"/>
+</p>
 
 ## About Me
 ***
+
 ```yaml
 name: Francis Gorreon
 located_in: Santa Rosa, Laguna, Philippines
 education:
   [
-    "Bachelor's in Electronics and Communication"
+    "Bachelor of Science in Information Technology"
   ]
 
 fields_of_interests:
