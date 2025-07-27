@@ -1,16 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Francis%20Gorreon&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Hello%20Everyone!&fontSize=90&animation=twinkling)
 
-<!--
-**gorreonfrancis/gorreonfrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+***
+name: Francis Gorreon
+located_in: Santa Rosa, Laguna, Philippines
+education:
+  [
+    "Bachelor's in Electronics and Communication"
+  ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "System Administration",
+    "Software Quality Assurance"
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Software Quality Assurance Analyst",
+    "Business Analyst",
+    "UI/UX Design Intern",
+  ]
+  
+currently_learning: ["Software Quality Assurance", "Web Development"]
+2025 Goals: ["Land an Internship", "Learn JavaScript", "Deep Dive into Software Testing"]
+hobbies: ["Gaming", "Running", "Reading"]
